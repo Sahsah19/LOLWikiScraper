@@ -12,7 +12,7 @@ usage: main.py [-h] [-t] [-c CHAMP]
   
     -h, --help                      show this help message and exit 
     -t, --tags                      generate json file with an individual key for each quote e.g. python main.py --tags
-    -c CHAMP, --champ CHAMP         generate json file for a particular champion e.g. python main.py --champ "Camille"gut
+    -c CHAMP, --champ CHAMP         generate json file for a particular champion e.g. python main.py --champ "Camille"
 
 ## Credits
 

@@ -13,3 +13,11 @@ usage: main.py [-h] [-t] [-c CHAMP]
     -h, --help                      show this help message and exit 
     -t, --tags                      generate json file with an individual key for each quote e.g. python main.py --tags
     -c CHAMP, --champ CHAMP         generate json file for a particular champion e.g. python main.py --champ "Camille"gut
+
+## Credits
+
+All code by Sahsah19
+
+Quotes generated from the [LoL Wiki](https://leagueoflegends.fandom.com/wiki/League_of_Legends_Wiki)
+
+Project inspirtation from [LoLdle](https://loldle.net/)
